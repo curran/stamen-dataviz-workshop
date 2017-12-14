@@ -1,7 +1,8 @@
 # stamen-dataviz-workshop
 Material for a Data Visualization workshop at Stamen Design.
 
-### [Slides](https://docs.google.com/presentation/d/1bEhUsW5Or01m3FX2dhzH-3CXpx2uaXwE0bkNaBS5Wyk/edit?usp=sharing)
+ * [Slides](https://docs.google.com/presentation/d/1bEhUsW5Or01m3FX2dhzH-3CXpx2uaXwE0bkNaBS5Wyk/edit?usp=sharing)
+ * [Intro Email](https://docs.google.com/document/d/12l-ncsLO7J9bA7axVOCHXoRvmtgv-9yZkVOyOIeW9HI/edit)
 
 ### Example Datasets
 
