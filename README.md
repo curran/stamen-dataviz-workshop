@@ -1,8 +1,82 @@
 # stamen-dataviz-workshop
-Material for a Data Visualization workshop at Stamen Design.
 
- * [Slides](https://docs.google.com/presentation/d/1bEhUsW5Or01m3FX2dhzH-3CXpx2uaXwE0bkNaBS5Wyk/edit?usp=sharing)
+Material for a [Data Visualization workshop at Stamen Design](https://stamen.com/data-visualization-classes/data-visualization-foundations/).
+
+ * [Day 1 Slides](https://docs.google.com/presentation/d/1bEhUsW5Or01m3FX2dhzH-3CXpx2uaXwE0bkNaBS5Wyk/edit?usp=sharing)
+ * [Day 2 Slides](https://docs.google.com/presentation/d/104evml40TpEK73oQ3xGAMN-g_FiwOsYWfgx-9vQ0oB8/edit?usp=sharing)
  * [Intro Email](https://docs.google.com/document/d/12l-ncsLO7J9bA7axVOCHXoRvmtgv-9yZkVOyOIeW9HI/edit)
+
+## Workshop Details
+
+Description
+
+Learn how to design and use interactive data visualizations.
+
+Who should join?
+
+ * Designers and developers interested in effective presentation of data.
+ * Product managers seeking to leverage data visualization.
+ * Data scientists who want to push beyond static statistical graphics.
+
+What will be covered (day 1)
+
+ * (throughout) Hands-on visualization creation, using tools that don't require programming (Spreadsheets, Tableau, Vega & friends, DataWrapper)
+ * Why Visualize? When to use, and not to use, data visualization
+ * Input: data and tasks/questions
+ * Data: types of attributes (Nominal, Ordinal, Quantitative)
+ * Marks and Channels: X, Y, Color (Hue, Luminance, Saturation), Size, Faceting (small multiples), and more
+ * Visual Encoding: Mapping data to marks and channels effectively
+ * Using Color in Visualization: Categorical Schemes, Continuous Schemes, Diverging Schemes
+ * Data Reduction: Taming "big data" for visual presentation, using aggregation, filtering, or sampling
+ * Brief summary of what's possible with interactive visualization.
+
+What will be covered (day 2)
+ * (throughout) Hands-on D3.js programming
+   * Warning: A medium level of JavaScript proficiency is required
+ * Using Blockbuilder.org & Bl.ocks.org to find and create
+ * Interactions in a Single View
+      • Select (hover, click)
+      • Highlight
+      •  Brush
+      •  Pan & Zoom
+      •  Filter (slice)
+      •  Change Encoding (select columns to visualize)
+ *  Interaction Patterns with Multiple Views
+      •  Linked Highlighting
+      •  Overview-Detail
+      •  Details-on-demand
+      •  Linked Navigation
+      •  Dynamic Layers
+
+What won't be covered
+
+ * Programming Languages or Libraries in depth
+ * Machine Learning, Artificial Intelligence
+
+Prerequisites for day 1
+
+ * Basic understanding of data
+ * Desire to leverage data visualization
+
+Additional rrerequisites for day 2
+
+ * Proficiency in JavaScript
+ * Basic familiarity with D3.js
+
+Details
+
+ * Be sure to bring your laptop
+ * The class workshop will be held at Stamen's San Francicso studio, 2017 Mission St, Suite 300, on December 16th–17th from 1–5PM.
+ * Classes are $500 each or $850 for both. Students currently enrolled at a university can recieve a 50% discount.   
+
+Conclusion
+
+If you or your company wants to present data effectively using data visualization, needs in-depth background knowledge about the art and science of data visualization, or needs to acquire data visualization literacy, this event is for you!
+
+Instructor Bios
+Curran Kelleher specializes in using and teaching data visualization, especially D3.js. He has been working in the field of data visualization since 2005, and is fascinated by interactive techniques for the visual presentation of data.
+
+Alan McConchie works at the intersection of cartography, software, and data science. He loves making cartographic visualizations that reveal new ways of seeing the world, and is passionate about creating tools that help people create their own maps and tell their own spatial stories. At Stamen, he co-founded Maptime, a series of beginner-focussed meetups for teaching about open source map-making. Alan currently sits on Maptime's board of directors, which supports over 70 local chapters around the world.
 
 ### Example Datasets
 
